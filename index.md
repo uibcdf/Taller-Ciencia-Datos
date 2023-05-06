@@ -1,4 +1,4 @@
-# Taller de Introducción a la Programación en Python
+# Taller de Introducción a la Ciencia de Datos con Python
 
 <br/>
 
