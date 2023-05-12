@@ -11,12 +11,12 @@ revisar la página del material suplementario ["Cómo trabajar con este
 taller"](../material_suplementario/como_trabajar.md). Se revisarán conceptos con los que debes
 familiarizarte esta primera semana como:
 
-- [La web del taller](https://www.uibcdf.org/Taller-Linux).
-- [El repositorio en GitHub del taller](https://github.com/uibcdf/Taller-Linux).
+- [La web del taller](https://www.uibcdf.org/Taller-Ciencia-Datos).
+- [El repositorio en GitHub del taller](https://github.com/uibcdf/Taller-Ciencia-Datos).
 - La licencia [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES).
 - El código libre (*Open Source*) y la ciencia abierta (*Open Science*)
 - [GitHub](https://github.com/) y [Git](https://git-scm.com/)
-- [El tablero de problemas](https://github.com/uibcdf/Taller-Linux/issues) y [el foro de discusión](https://github.com/uibcdf/Taller-Linux/discussions) del taller.
+- [El tablero de problemas](https://github.com/uibcdf/Taller-Ciencia-Datos/issues) y [el foro de discusión](https://github.com/uibcdf/Taller-Ciencia-Datos/discussions) del taller.
 - [Conda](https://docs.conda.io/en/latest/) para el entorno de ejecución del repositorio y su material.
 - Los ficheros [Markdown](https://www.markdownguide.org/) y los [Jupyter Notebook](https://jupyter.org/) como soporte del material del repositorio.
 
