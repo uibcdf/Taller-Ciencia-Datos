@@ -34,7 +34,7 @@ Visita las páginas ["Cómo trabajar con este taller"](../material_suplementario
 ### Crea tu propio ambiente de trabajo con Conda
 
 Crea tu propio ambiente de trabajo con Conda con las mismas herramientas que los responsables y
-desarrolladores del taller usan (éstas están enlistadas en el fichero ['conda_env.yaml'](https://github.com/uibcdf/Taller-Linux/blob/main/conda_env.yaml)).
+desarrolladores del taller usan (éstas están enlistadas en el fichero ['conda_env.yaml'](https://github.com/uibcdf/Taller-Ciencia-Datos/blob/main/conda_env.yaml)).
 
 ```{hint}
 Visita las páginas ["Cómo trabajar con este taller"](../material_suplementario/como_trabajar/como_trabajar.md) y
