@@ -277,7 +277,7 @@ Esta web era sólo una guia introductoria. No es funcional documentarse o estudi
 mucho sin antes probar a instalar y usar la herramienta. Aprenderás de
 manera más solida si con el uso te van surgiendo necesidades a las que vas
 dando solución poco a poco. Puedes encontrar -o contribuir añadiendo- más información
-útil en el siguiente listado.
+útil en los siguientes listados.
 
 ### Documentación <a class="anchor" id="documentacion"></a>
 
@@ -297,7 +297,6 @@ Otros tutoriales, webinars, videos de youtube y cursos gratuitos que puedes cons
 
 
 
-
 [anaconda]: https://www.anaconda.com/
 [conda_docs]: https://docs.conda.io
 [conda_user_guide]: https://docs.conda.io/projects/conda/en/stable/user-guide/index.html
@@ -309,5 +308,5 @@ Otros tutoriales, webinars, videos de youtube y cursos gratuitos que puedes cons
 [install_conda_windows]: https://docs.conda.io/projects/conda/en/stable/user-guide/install/windows.html
 [conda_getting_started]: https://docs.conda.io/projects/conda/en/stable/user-guide/getting-started.html
 [conda_cheat_sheets]: https://docs.conda.io/projects/conda/en/stable/user-guide/cheatsheet.html 
-[foro]: https://github.com/uibcdf/Taller-Linux/discussions/9
+[foro]: https://github.com/uibcdf/Taller-Ciencia-Datos/discussions/5
 
