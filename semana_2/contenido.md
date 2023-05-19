@@ -1,28 +1,27 @@
 # Contenido 
 
-## Qué es la Ciencia de Datos
+Los siguientes contenidos serán presentados en [una sesión de videoconferencia](sesion.md).
+Puedes encontrar en [este enlace](slides/slides.pdf) las slides usadas como soporte.
 
-En construcción...
+En esta segunda semana abordaremos los temas:
 
-## ¿Por qué y para qué la ciencia de Datos?
-
-En construcción...
-
-## Ciencia de Datos en Python.
-
-En construcción...
-
-## ¿Cómo vamos a trabajar?
-
-En construcción...
+- ¿Qué es la Ciencia de Datos?
+- ¿Por qué y para qué la Ciencia de Datos?
+- ¿Ciencia de Datos en Python?
+- ¿Cómo vamos a trabajar?
+- Numpy
+- Matplotlib
 
 ## Numpy
 
-[Ver la página dedicada a Numpy](numpy.ipynb).
+Si no tienes experiencia en el uso de la librería Numpy, [este nootebook te puede servir de
+introducción](numpy.ipynb)
 
 ## MatPlotLib
 
-[Ver la página dedicada a Matplotlib](matplotlib.ipynb).
+Si no tienes experiencia en el uso de la librería Numpy, [este nootebook te puede servir de
+introducción](matplotlib.ipynb)
+
 
 ```{eval-rst}
 
