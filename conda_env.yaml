@@ -12,3 +12,9 @@ dependencies:
 - sphinx-design
 - sphinx-favicon
 - myst-nb
+- make
+- numpy
+- matplotlib
+- pandas
+- scikit-learn
+
