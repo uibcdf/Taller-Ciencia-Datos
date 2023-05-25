@@ -17,4 +17,5 @@ dependencies:
 - matplotlib
 - pandas
 - scikit-learn
+- numba
 
