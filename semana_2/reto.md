@@ -21,3 +21,11 @@ los nuevos ficheros a tu fork en GitHub para que puedan ser compartidos con el
 resto de los participantes y los tutores del taller.
 :::
 
+## Solución
+
+Se aproxima el final de la semana. Encuentra a continuación una propuesta de solución para cada
+reto:
+
+- [Algoritmo para ordenar enteros](respuesta_reto_1.ipynb)
+
+
