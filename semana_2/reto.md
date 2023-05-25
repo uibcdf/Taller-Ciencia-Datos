@@ -27,5 +27,7 @@ Se aproxima el final de la semana. Encuentra a continuación una propuesta de so
 reto:
 
 - [Algoritmo para ordenar enteros](respuesta_reto_1.ipynb)
+- [Algoritmo para ordenar enteros](respuesta_reto_2.ipynb)
+- [Algoritmo para ordenar enteros](respuesta_reto_3.ipynb)
 
 
