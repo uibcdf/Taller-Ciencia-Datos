@@ -23,11 +23,10 @@ resto de los participantes y los tutores del taller.
 
 ## Solución
 
-Se aproxima el final de la semana. Encuentra a continuación una propuesta de solución para cada
-reto:
+La solución propuesta para el reto de esta semana se puede encontrar en la
+sección correspondiente a la siguiente semana:
 
-- [Algoritmo para ordenar enteros](respuesta_reto_1.ipynb)
-- [Cálculo del número Pi por un método MonteCarlo](respuesta_reto_2.ipynb)
-- [K-means Clustering](respuesta_reto_3.ipynb)
-
+- [Algoritmo para ordenar enteros](../semana_3/respuesta_reto_1.ipynb)
+- [Cálculo del número Pi por un método MonteCarlo](../semana_3/respuesta_reto_2.ipynb)
+- [K-means Clustering](../semana_3/respuesta_reto_3.ipynb)
 
