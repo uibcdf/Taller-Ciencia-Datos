@@ -27,12 +27,9 @@ Salud - Hospital Infantil de México Federico Gómez](quienes\_somos.md).
 
 
 ```{important} 
-**La edición 2023.2 comenzó el 12 de mayo**.
-Las sesiones de videoconferencia se llevan a cabo los viernes de las 3:00 pm a las 4:30 pm (hora de Ciudad de México).
-**Aun estás a tiempo de participar**. Ponte al día revisando los contenidos de las semanas anteriores y regístrate.
+**La edición 2023.2 ha sido cancelada por falta de participances**.
 
-**La siguiente edición 2023.3 comenzará el próximo 8 de septiembre!**
-Las sesiones de videoconferencia se llevarán a cabo los lunes de las 4:30 pm a las 6:00 pm (hora de Ciudad de México).
+El taller iniciará de nuevo a inicios del 2024.
 ```
 
 ## Resumen de Contenidos
